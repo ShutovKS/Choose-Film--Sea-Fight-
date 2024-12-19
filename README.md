@@ -1,5 +1,7 @@
 # Movie-Picking Game Solution (Battleship Style)
 
+[Eng](./README.md) | [Rus](./README_RU.md)
+
 * This project is a private commission and is available at the link - <https://exzet.itch.io/choose-film-sea-battle>
 
 ## Description
